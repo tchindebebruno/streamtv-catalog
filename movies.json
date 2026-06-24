@@ -5,7 +5,7 @@
       "items": [
         {
           "id": "1",
-          "title": "Canal+ Sport",
+          "title": "World Cup 2026",
           "description": "Chaîne sportive en direct.",
           "poster": "https://picsum.photos/300/450?1",
           "banner": "https://picsum.photos/1200/500?1",
@@ -16,11 +16,11 @@
         },
         {
           "id": "2",
-          "title": "Canal+ Cinéma",
+          "title": "Une chaine pourrie",
           "description": "Films et séries en continu.",
           "poster": "https://picsum.photos/300/450?2",
           "banner": "https://picsum.photos/1200/500?2",
-          "streamUrl": "https://streams.center/embed/ch2.php",
+          "streamUrl": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/bitrate_1.m3u8",
           "year": 2026,
           "rating": 4.6,
           "genres": ["Cinéma", "Live TV"]
