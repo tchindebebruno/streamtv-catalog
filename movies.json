@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "name": "Live TV",
+      "items": [
+        {
+          "id": "1",
+          "title": "Canal+ Sport",
+          "description": "Chaîne sportive en direct.",
+          "poster": "https://picsum.photos/300/450?1",
+          "banner": "https://picsum.photos/1200/500?1",
+          "streamUrl": "https://streams.center/embed/ch1.php",
+          "year": 2026,
+          "rating": 4.8,
+          "genres": ["Sport", "Live TV"]
+        },
+        {
+          "id": "2",
+          "title": "Canal+ Cinéma",
+          "description": "Films et séries en continu.",
+          "poster": "https://picsum.photos/300/450?2",
+          "banner": "https://picsum.photos/1200/500?2",
+          "streamUrl": "https://streams.center/embed/ch2.php",
+          "year": 2026,
+          "rating": 4.6,
+          "genres": ["Cinéma", "Live TV"]
+        },
+        {
+          "id": "3",
+          "title": "Canal+ Family",
+          "description": "Contenus pour toute la famille.",
+          "poster": "https://picsum.photos/300/450?3",
+          "banner": "https://picsum.photos/1200/500?3",
+          "streamUrl": "https://streams.center/embed/ch3.php",
+          "year": 2026,
+          "rating": 4.5,
+          "genres": ["Famille", "Live TV"]
+        }
+      ]
+    }
+  ]
+}
