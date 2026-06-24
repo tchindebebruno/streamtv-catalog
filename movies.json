@@ -15,7 +15,7 @@
           "genres": ["Sport", "Live TV"]
         },
          {
-          "id": "1",
+          "id": "2",
           "title": "World Cup 2026 - Chaine 1",
           "description": "Diffusion en direct des matchs, analyses et temps forts de la Coupe du Monde 2026.",
           "poster": "https://picsum.photos/300/450?1",
@@ -26,7 +26,7 @@
           "genres": ["Sport", "Live TV"]
         },
          {
-          "id": "1",
+          "id": "3",
           "title": "World Cup 2026 - Chaine 3",
           "description": "Diffusion en direct des matchs, analyses et temps forts de la Coupe du Monde 2026.",
           "poster": "https://picsum.photos/300/450?1",
@@ -37,7 +37,7 @@
           "genres": ["Sport", "Live TV"]
         },
         {
-          "id": "2",
+          "id": "4",
           "title": "Canal 324",
           "description": "Chaîne d'information en continu avec actualités nationales, internationales, économie et météo.",
           "poster": "https://picsum.photos/300/450?2",
@@ -48,7 +48,7 @@
           "genres": ["Actualités", "Live TV"]
         },
         {
-          "id": "3",
+          "id": "5",
           "title": "Télé Tchad",
           "description": "Chaîne nationale du Tchad proposant informations, culture, émissions de société et événements officiels.",
           "poster": "https://picsum.photos/300/450?3",
@@ -59,7 +59,7 @@
           "genres": ["Actualités", "Culture", "Live TV"]
         },
         {
-            "id": "4",
+            "id": "6",
             "title": "beIN Sports Xtra Español",
             "description": "Chaîne sportive en espagnol diffusant en direct football, analyses, actualités sportives et compétitions internationales.",
             "poster": "https://picsum.photos/300/450?4",
@@ -70,7 +70,7 @@
             "genres": ["Sport", "Football", "Live TV"]
         },
         {
-          "id": "1",
+          "id": "7",
           "title": "beIN Sports Xtra Español",
           "description": "Football, compétitions internationales et actualités sportives en espagnol.",
           "poster": "https://picsum.photos/300/450?bein",
@@ -81,7 +81,7 @@
           "genres": ["Sport", "Football", "Live TV"]
         },
         {
-          "id": "2",
+          "id": "8",
           "title": "L'Equipe",
           "description": "Actualités sportives, compétitions en direct, magazines et analyses.",
           "poster": "https://picsum.photos/300/450?lequipe",
@@ -92,7 +92,7 @@
           "genres": ["Sport", "Live TV"]
         },
         {
-          "id": "3",
+          "id": "9",
           "title": "FIFA+ Français",
           "description": "Football international, documentaires et contenus officiels FIFA.",
           "poster": "https://picsum.photos/300/450?fifa",
@@ -103,7 +103,7 @@
           "genres": ["Sport", "Football", "Live TV"]
         },
         {
-          "id": "4",
+          "id": "10",
           "title": "France 24 Français",
           "description": "Actualités internationales, économie, politique et géopolitique en continu.",
           "poster": "https://picsum.photos/300/450?france24",
@@ -114,7 +114,7 @@
           "genres": ["News", "Live TV"]
         },
         {
-          "id": "5",
+          "id": "11",
           "title": "TV5Monde",
           "description": "Chaîne francophone internationale proposant information, culture et divertissement.",
           "poster": "https://picsum.photos/300/450?tv5",
