@@ -5,11 +5,33 @@
       "items": [
         {
           "id": "1",
-          "title": "World Cup 2026",
+          "title": "World Cup 2026 - Chaine 1",
           "description": "Diffusion en direct des matchs, analyses et temps forts de la Coupe du Monde 2026.",
           "poster": "https://picsum.photos/300/450?1",
           "banner": "https://picsum.photos/1200/500?1",
           "streamUrl": "https://streams.center/embed/ch1.php",
+          "year": 2026,
+          "rating": 4.8,
+          "genres": ["Sport", "Live TV"]
+        },
+         {
+          "id": "1",
+          "title": "World Cup 2026 - Chaine 1",
+          "description": "Diffusion en direct des matchs, analyses et temps forts de la Coupe du Monde 2026.",
+          "poster": "https://picsum.photos/300/450?1",
+          "banner": "https://picsum.photos/1200/500?1",
+          "streamUrl": "https://streams.center/embed/ch2.php",
+          "year": 2026,
+          "rating": 4.8,
+          "genres": ["Sport", "Live TV"]
+        },
+         {
+          "id": "1",
+          "title": "World Cup 2026 - Chaine 3",
+          "description": "Diffusion en direct des matchs, analyses et temps forts de la Coupe du Monde 2026.",
+          "poster": "https://picsum.photos/300/450?1",
+          "banner": "https://picsum.photos/1200/500?1",
+          "streamUrl": "https://streams.center/embed/ch3.php",
           "year": 2026,
           "rating": 4.8,
           "genres": ["Sport", "Live TV"]
