@@ -6,7 +6,7 @@
         {
           "id": "1",
           "title": "World Cup 2026",
-          "description": "Chaîne sportive en direct.",
+          "description": "Diffusion en direct des matchs, analyses et temps forts de la Coupe du Monde 2026.",
           "poster": "https://picsum.photos/300/450?1",
           "banner": "https://picsum.photos/1200/500?1",
           "streamUrl": "https://streams.center/embed/ch1.php",
@@ -16,26 +16,37 @@
         },
         {
           "id": "2",
-          "title": "Une chaine pourrie",
-          "description": "Films et séries en continu.",
+          "title": "Canal 324",
+          "description": "Chaîne d'information en continu avec actualités nationales, internationales, économie et météo.",
           "poster": "https://picsum.photos/300/450?2",
           "banner": "https://picsum.photos/1200/500?2",
           "streamUrl": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/bitrate_1.m3u8",
           "year": 2026,
           "rating": 4.6,
-          "genres": ["Cinéma", "Live TV"]
+          "genres": ["Actualités", "Live TV"]
         },
         {
           "id": "3",
-          "title": "Tele Tchad",
-          "description": "Contenus pour toute la famille.",
+          "title": "Télé Tchad",
+          "description": "Chaîne nationale du Tchad proposant informations, culture, émissions de société et événements officiels.",
           "poster": "https://picsum.photos/300/450?3",
           "banner": "https://picsum.photos/1200/500?3",
           "streamUrl": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
           "year": 2026,
           "rating": 4.5,
-          "genres": ["Famille", "Live TV"]
-        }
+          "genres": ["Actualités", "Culture", "Live TV"]
+        },
+        {
+            "id": "4",
+            "title": "beIN Sports Xtra Español",
+            "description": "Chaîne sportive en espagnol diffusant en direct football, analyses, actualités sportives et compétitions internationales.",
+            "poster": "https://picsum.photos/300/450?4",
+            "banner": "https://picsum.photos/1200/500?4",
+            "streamUrl": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
+            "year": 2026,
+            "rating": 4.7,
+            "genres": ["Sport", "Football", "Live TV"]
+          }
       ]
     }
   ]
