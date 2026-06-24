@@ -27,11 +27,11 @@
         },
         {
           "id": "3",
-          "title": "Canal+ Family",
+          "title": "Tele Tchad",
           "description": "Contenus pour toute la famille.",
           "poster": "https://picsum.photos/300/450?3",
           "banner": "https://picsum.photos/1200/500?3",
-          "streamUrl": "https://streams.center/embed/ch3.php",
+          "streamUrl": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
           "year": 2026,
           "rating": 4.5,
           "genres": ["Famille", "Live TV"]
